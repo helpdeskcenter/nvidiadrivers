@@ -15,9 +15,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'setup.brother.com'
-copyright = '2025, setup.brother.com'
-author = 'setup.brother.com'
+project = 'Nvidia drivers'
+copyright = '2025, Nvidia drivers'
+author = 'Nvidia drivers'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Setup.brother.com - Guide to Install a brother printer to my computer"
+html_title = "NVIDIA Drivers – Secure Way to Update, Download, and Install"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Guide to Install a brother printer to my computer"
+html_short_title = "Secure Way to Update, Download, and Install"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
