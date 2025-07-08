@@ -1,4 +1,4 @@
-NVIDIA Drivers – Secure Way to Update, Download, and Install your nvidia drivers
+NVIDIA Drivers – Secure Way to Update, Download, and Install Your Nvidia Drivers
 =============================================================
 
 NVIDIA drivers are essential for getting the best performance out of your graphics card. Whether you’re a gamer, video editor, or everyday PC user, having the latest NVIDIA drivers ensures smooth graphics, fewer bugs, and support for the latest features. In this guide, you'll learn how to safely update, download, and install NVIDIA drivers using official tools no tech skills required.
