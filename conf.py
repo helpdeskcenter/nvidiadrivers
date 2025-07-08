@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "NVIDIA Drivers – Secure Way to Update, Download, and Install"
+html_title = "NVIDIA Drivers – Secure Way to Update, Download, and Install Your Nvidia Drivers"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Secure Way to Update, Download, and Install"
+html_short_title = "Secure Way to Update, Download, and Install Your Nvidia Drivers"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
